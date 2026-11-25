@@ -2,7 +2,7 @@
 
 ## My Letterform
 
-<img src="IMG_4583.jpg" alt="IMG_4583">
+<img src="../IMG_4583.jpg" alt="Moje fotografie">
 
 ## My haiku
 
