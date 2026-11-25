@@ -2,7 +2,7 @@
 
 ## My Letterform
 
-My letterform is inspired by melting typical Czech cheese.
+<img src="IMG_4583.jpg" alt="IMG_4583">
 
 ## My haiku
 
